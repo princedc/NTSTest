@@ -1,8 +1,2 @@
-<<<<<<< HEAD
 integration
-feature-1
 feature-2
-
-=======
-integration
->>>>>>> parent of e6316e3... Feature 1 (#1)
